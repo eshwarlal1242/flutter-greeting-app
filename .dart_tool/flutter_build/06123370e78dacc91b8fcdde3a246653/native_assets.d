@@ -1,0 +1,1 @@
+ C:\\flutter_greeting_app\\.dart_tool\\flutter_build\\06123370e78dacc91b8fcdde3a246653\\native_assets.yaml: 
